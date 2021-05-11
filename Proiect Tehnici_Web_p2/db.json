@@ -1,0 +1,32 @@
+{
+  "tip1": [
+    {
+      "numarPersoane": "3",
+      "dataRezervata": "2021-05-23",
+      "tip": "sezon",
+      "cod": 1,
+      "id": 1
+    },
+    {
+      "numarPersoane": "1",
+      "dataRezervata": "2021-05-28",
+      "tip": "extra-sezon",
+      "cod": 2,
+      "id": 2
+    },
+    {
+      "numarPersoane": "11",
+      "dataRezervata": "Extra-Sezon",
+      "tip": "Seria 5",
+      "cod": 3,
+      "id": 3
+    },
+    {
+      "numarPersoane": "2",
+      "dataRezervata": "Martie",
+      "tip": "Seria 2",
+      "cod": 4,
+      "id": 4
+    }
+  ]
+}
